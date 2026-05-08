@@ -171,7 +171,7 @@ me.say_hi()
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] 🏆 Solve **500+** LeetCode problems
 - [ ] 🏗️ Build **5+** production-level projects  
@@ -180,13 +180,6 @@ me.say_hi()
 - [ ] 🌐 Contribute to **Open Source**
 - [ ] 📝 Start **technical blogging**
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=param-sangha&bg_color=0D1117&color=FC466B&line=3F5EFB&point=24C6DC&area=true&hide_border=true" />
-</div>
 
 ---
 
