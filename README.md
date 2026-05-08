@@ -17,8 +17,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=param-sangha&style=for-the-badge&color=FC466B&label=PROFILE+VIEWS)
-
 </div>
 
 ---
