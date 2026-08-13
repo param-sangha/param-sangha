@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Paramveer Singh" />
+<img src="banner.png" width="100%" alt="Paramveer Singh" />
 
 # Paramveer Singh
 
